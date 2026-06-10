@@ -52,17 +52,13 @@ This section is organized into the following folders:
 
 
 
-* **Calibration Data**
+* **Calibration Data and Map**
 
-&#x09;Contains the raw data collected during the calibration process across multiple runs, covering Reynolds numbers ranging from 1000 to 4300 (based on probe diameter).
+&#x09;Contains the raw data collected during the calibration process across multiple runs, covering Reynolds numbers ranging from 1000 to 4300 (based on probe diameter) and provides visual calibration maps along with the datasets used to generate them. Maps are available for all Reynolds numbers at which calibration was performed..
 
 * **Calibration Facility**
 
 &#x09;Includes CAD and assembly files for the calibration facility used to test the probe. The facility was designed using CATIA V5–6R2021.
-
-* **Calibration Maps**
-
-&#x09;Provides visual calibration maps along with the datasets used to generate them. Maps are available for all Reynolds numbers at which calibration was performed.
 
 * **Calibration Program (5 Hole Probe Calibration 2025)**
 
