@@ -30,7 +30,7 @@ This section is organized into the following folders:
 
 * **BOM (Bill of Materials)**
 
-&#x09;Contains a complete list of components used in the design, manufacturing, and calibration of the probe, including items required for the calibration facility.
+Contains a complete list of components used in the design, manufacturing, and calibration of the probe, including items required for the calibration facility.
 
 * **Drawings**
 
