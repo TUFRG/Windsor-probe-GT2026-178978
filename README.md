@@ -30,11 +30,11 @@ This section is organized into the following folders:
 
 * **BOM (Bill of Materials)**
 
-Contains a complete list of components used in the design, manufacturing, and calibration of the probe, including items required for the calibration facility.
+&#x09;  Contains a complete list of components used in the design, manufacturing, and calibration of the probe, including items required for the calibration facility.
 
 * **Drawings**
 
-&#x09;Includes detailed technical drawings for all probe components, as well as newly manufactured parts used to retrofit the existing calibration facility.
+&#x09;  Includes detailed technical drawings for all probe components, as well as newly manufactured parts used to retrofit the existing calibration facility.
 
 * **Probe Assembly (CAT Parts and STL)**
 
