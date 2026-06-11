@@ -18,23 +18,18 @@ Thomson, A., Fontanin, L., and Defoe, J., “The Windsor Probe: An Additively Ma
 
 ## Contents
 
-The repository is organized into two main folders: one containing the probe design and manufacturing files and the other containing the calibration files.
+The repository is organized into three main folders: the first contains the probe design files, the second contains the calibration files, and the third contains the calibration facility design files together with the Bill of Materials (BOM).
 
 
 
-### Design and Manufacturing
+### Design Files
 
 This section is organized into the following folders:
 
 
-
-* **BOM (Bill of Materials)**
-
-&#x09;  Contains a complete list of components used in the design, manufacturing, and calibration of the probe, including items required for the calibration facility.
-
 * **Drawings**
 
-&#x09;  Includes detailed technical drawings for all probe components, as well as newly manufactured parts used to retrofit the existing calibration facility.
+&#x09;  Includes detailed technical drawings for all probe components
 
 * **Probe Assembly (CAT Parts and STL)**
 
@@ -69,4 +64,18 @@ This section is organized into the following folders:
 &#x09;Includes sample Excel files (with formulas for calibration coefficient calculations), the experimental data structure, and scripts used for: Averaging repeated measurements, generating calibration maps and estimating measurement uncertainty
 
 &#x09;Data averaging was performed using Python, while calibration map generation and uncertainty analysis were carried out in MATLAB.
+
+### Calibration Facility and BOM
+
+This section is organized into the following folders:
+
+* **Calibration Facility**
+
+&#x09;  Includes full CAD assembly of the calibration facility and detailed technical drawings for newly manufactured parts used to retrofit the existing calibration facility.
+
+* **BOM (Bill of Materials)**
+
+&#x09;  Contains a complete list of components used in the design, manufacturing, and calibration of the probe, including items required for the calibration facility.
+
+
 
