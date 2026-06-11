@@ -22,7 +22,7 @@ The repository is organized into three main folders: the first contains the prob
 
 
 
-### Design Files
+### Probe Design Files
 
 This section is organized into the following folders:
 
